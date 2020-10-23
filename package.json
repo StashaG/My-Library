@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/StashaG/My-Library/issues"
   },
-  "homepage": "https://github.com/StashaG/My-Library#readme"
+  "homepage": "https://github.com/StashaG/My-Library#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
 }
